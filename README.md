@@ -6,7 +6,7 @@ uXplor is a mobile-centered web application that allows users to participate in 
 
 JavaScript, Node.js, PostgreSQL were used to create uXplor. TN5 utilized the Materialize CSS framework to design the application and they also created some basic CSS animations for added fun. The Google Places API was used in the creation of uXplor. Each member of uXplor worked on both the front-end of the code and the back-end. While following stories was an integral part of the workflow, each member also spent considerable amounts of time on various chores.
 
-# Client Side code
+## Client Side code
 * https://github.com/TN5/uxplor-Client-side
-# Server Side code
+## Server Side code
 * https://github.com/TN5/uxplor-Server-side
